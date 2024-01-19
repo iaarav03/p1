@@ -1,0 +1,35 @@
+# Node.js
+node_modules/
+food
+# Logs
+logs
+*.log
+npm-debug.log*
+.parcel-cache
+
+# Build files
+build/
+dist/
+
+# Dependency directories
+/.pnp
+.pnp.js
+
+# Optional npm cache directory
+.npm
+
+# Jest
+coverage/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
